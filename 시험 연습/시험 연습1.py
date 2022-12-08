@@ -1,6 +1,3 @@
-from os import remove
-
-
 p = "881120-1068234"
 print("연월일 : ", p[0:6])
 print("숫자 : ", p[7:])
