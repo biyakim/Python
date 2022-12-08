@@ -1,7 +1,4 @@
-from calculator import add
-from calculator import sub
-from calculator import mul
-from calculator import div
+from calculator import *
 
 n1 = int(input("첫 번째 수는? : "))
 n2 = int(input("두 번째 수는? :"))
